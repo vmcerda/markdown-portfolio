@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Yaktocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.travelandleisure.com%2Fanimals%2Fmost-popular-dog-names-2020&psig=AOvVaw26409ILrLpdHkM49qa4u8O&ust=1633281383574000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDUpLedrPMCFQAAAAAdAAAAABAJ)
